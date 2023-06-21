@@ -1,0 +1,10 @@
+.ctn-main{
+    background-color: rgb(235, 235, 235);
+    width: calc(100vw - 150px);
+    height: calc(100vh - 85.6px);
+}
+
+p{
+    padding: 2rem;
+    font-size: 0.8rem;
+}
